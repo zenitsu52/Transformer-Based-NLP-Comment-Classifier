@@ -162,5 +162,6 @@ This project is open for educational and research purposes.
 ## 👨‍💻 Author
 
 **Sahil Gawade**
+**sahilgawade46@gmail.com**
 
 Feel free to reach out for improvements or suggestions!
